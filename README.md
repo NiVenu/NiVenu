@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to use Machine Learning algorithms to better understand market patterns**
 
-- 👨‍💻 All of my projects are available at [link.com](link.com)
+- 👨‍💻 All of my projects are available at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
